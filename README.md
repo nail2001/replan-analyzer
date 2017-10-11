@@ -1,2 +1,2 @@
 # replan-analyzer
-RePlan Analizer
+RePlan Analyzer
